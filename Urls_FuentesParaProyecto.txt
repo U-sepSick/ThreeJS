@@ -1,0 +1,14 @@
+Modelos 3D
+https://sketchfab.com/3d-models/
+
+HDRIs
+https://polyhaven.com/hdris
+
+Convertir HDRI en CubeMaps para ThreeJS
+https://matheowis.github.io/HDRI-to-CubeMap/
+
+Comando para comprimir modelos e integrat texturas DRACO
+bash => gltf-pipeline -i scene.gltf -o helmet.gltf --draco.compressionLevel=10
+
+Ejemplos animaciones Gsap
+https://greensock.com/docs/v2/Easing
